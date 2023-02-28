@@ -153,7 +153,7 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
 [issues-url]: https://github.com/reha-hazir/F1-EDA-Grand-Prix-Analysis/issues
 [license-shield]: https://img.shields.io/github/license/reha-hazir/F1-EDA-Grand-Prix-Analysis?color=red&style=for-the-badge
 [license-url]: https://github.com/reha-hazir/F1-EDA-Grand-Prix-Analysis/blob/master/LICENSE.md
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-shield]: https://imgur.com/a/nk4cZpU
 [linkedin-url]: https://www.linkedin.com/in/reha-hazir/
 [twitter-shield]: https://img.shields.io/twitter/follow/hazirreha?color=blue&logo=twitter&style=for-the-badge 
 [twitter-url]: https://twitter.com/hazirreha
